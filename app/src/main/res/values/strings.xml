@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoginMVVMTemplete</string>
+    <string name="booki">BookI</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="read_it_together">Read it together</string>
+    <string name="skip">Skip</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="forget_password">Forget Password.?</string>
+    <string name="action_settings">Setting</string>
+
+    <string name="no_internet_connection">It seems you have lost internet connectivity.An active internet connection is required to continue to use this app. Please try again shortly.</string>
+    <string name="no_internet_connection_short_message">It seems you have lost internet connectivity.</string>
+    <string name="retry_connection">Retry Connection</string>
+</resources>
